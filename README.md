@@ -10,12 +10,12 @@
         }
 
         .indented-text {
-            text-indent: 30px;
+            text-indent: 20px;
         }
 
         .aligned-text {
-            border: 1px solid #ccc;
-            padding: 10px;
+            border: 2px solid #ccc;
+            padding: 20px;
         }
 
         .left-align {
@@ -35,8 +35,8 @@
         }
 
         .vertical-align-demo {
-            height: 200px;
-            line-height: 200px;
+            height: 250px;
+            line-height: 250px;
             border: 1px solid #ccc;
         }
 
@@ -73,7 +73,7 @@
         }
 
         .custom-height {
-            vertical-align: 20%;
+            vertical-align: 30%;
         }
     </style>
 </head>
@@ -113,7 +113,8 @@
         <span class="middle">Middle</span>
         <span class="bottom">Bottom</span>
         <span class="text-bottom">Text Bottom</span>
-        <span class="custom-height">Custom Height (20%)</span>
+        <span class="custom-height">Custom Height (30%)</span>
     </div>
 </body>
 </html>
+
